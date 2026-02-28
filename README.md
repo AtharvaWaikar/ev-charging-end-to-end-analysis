@@ -74,9 +74,14 @@ This project simulates a **real-world Data Science workflow**, demonstrating ski
   - Station ID  
   - Energy consumed  
 
-<p align="center">
-  <img src="outputs/ev-charging-dashboard.png" width="900"/>
-</p>
+## Project Screenshots
+## 01
+![Dashboard](Outputs/EV%20Charging%20Intelligence%20Hub01_page-0001.jpg)
+
+## 02
+![Dashboard](Outputs/EV%20Charging%20Intelligence%20Hub02_page-0001.jpg)
+
+---
 
 - Displays KPIs such as:  
   - Total energy consumed  
