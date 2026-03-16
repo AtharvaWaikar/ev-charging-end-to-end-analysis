@@ -153,5 +153,11 @@ streamlit run app.py
 **Atharva Waikar** - Data Scientist | Python | Streamlit | End-to-End Analytics  
 
 ---
+Portfolio :-
+---
+Linkedln :- https://www.linkedin.com/in/atharva-waikar-a95a042b5/
+---
+Github :- https://github.com/AtharvaWaikar
+---
 
 ⭐ If you find this project useful or interesting, please give it a star!
